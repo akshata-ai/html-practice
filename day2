@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> My profile </title>
+    </head>
+    <body>
+        <h1> Well come to my page </h1>
+        <p> My name is Akshata.i am learning HTML </p>
+        <h2> My favotite animal is dog </h2>
+        <img src="dog.jpg.jpg" alt="dog image" width="200">
+        <p> Click below to visite google</p>
+        <a href="https://www.google.com"> go to goggle </a>
+        <h2> My Skills:</h2>
+        <ul>
+            <li> HTML </li>
+            <li> CSS </li>
+            <li> Java </li>
+        </ul>
+    </body>
+</html>
